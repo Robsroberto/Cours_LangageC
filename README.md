@@ -15,7 +15,15 @@ Ce dépôt couvre le langage C : des bases jusqu'aux pointeurs, enregistrements 
 
 ## 📚 Supports de cours
 
-Les supports de cours complets sont disponibles dans [`cours/`](cours/).
+| # | Chapitre | Lien |
+|---|----------|------|
+| 1 | Introduction au Langage C | [📄 cours/1-introductionLangageC.pdf](cours/1-introductionLangageC.pdf) |
+| 2 | Structures conditionnelles | [📄 cours/2-Structure_conditionnel_langC.pdf](cours/2-Structure_conditionnel_langC.pdf) |
+| 3 | Structures répétitives | [📄 cours/3-Structure_repetitive.pdf](cours/3-Structure_repetitive.pdf) |
+| 4 | Enregistrements (struct) | [📄 cours/4-Enregistrement_enC.pdf](cours/4-Enregistrement_enC.pdf) |
+| + | Les fichiers en C | [📄 cours/Les_fichiers_C.pdf](cours/Les_fichiers_C.pdf) |
+| + | Les pointeurs | [📄 cours/pointeurs_c.pdf](cours/pointeurs_c.pdf) |
+| + | Révisions | [📄 cours/revisions_C.pdf](cours/revisions_C.pdf) |
 
 ---
 
